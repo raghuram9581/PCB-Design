@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name STM32F4DISCOVERY)(type Legacy)(uri "E:/HIWI/stm32 Discovery Extension/Stm 32 kicad lib/STM32F4DISCOVERY/STM32F4DISCOVERY.lib")(options "")(descr "")(disabled))
+)
